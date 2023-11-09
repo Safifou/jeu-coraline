@@ -1,0 +1,14 @@
+.grand_titre {font-family: 'Times New Roman', Times, serif;}
+.grand_titre {text-align: center;}
+.grand_titre {text-align: justify;}
+
+.par_1 {text-align: center;}
+.par_1 {text-align: justify;}
+.par_2 {text-align: center;}
+.par_2 {text-align: justify;}
+.par_3 {text-align: center;}
+.par_3 {text-align: justify;}
+.par_4 {text-align: center;}
+.par_4 {text-align: justify;}
+
+body {background-color: thistle;}
